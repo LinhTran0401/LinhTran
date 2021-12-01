@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    width: 100%;
+    height: auto;
+    background-image: url(https://img2.thuthuatphanmem.vn/uploads/2018/12/30/background-dep-ppt_110341618.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+/*  */
+.Name > h1,
+.office > h1 {
+    margin: 0 0 12px 0;
+}
+
+/*  */
+.infor__list {
+    list-style: none;
+    padding-left: 0;
+    width: 100%;
+}
+.infor__list-wrap {
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0;
+}
+.infor__item-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+.infor__item-content {
+    font-size: 20px;
+}
+
+.infor__img-wrap {
+    padding-top: 45%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin-top: 38px;
+}
+/*  */
+.intro__list {
+    list-style: none;
+    padding-left: 0;
+    width: 100%;
+}
+.intro__item {
+    margin: 8px 0;
+    font-size: 20px;
+
+}
+/*  */
+.skill__list {
+    
+}
+.skill__item {
+    font-size: 20px;
+    line-height: 32px;
+}
+/*  */
+.school__list {
+    list-style: none;
+    padding-left: 0;
+}
+.schools__item {
+
+}
